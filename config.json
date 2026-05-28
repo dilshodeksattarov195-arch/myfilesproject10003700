@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carterocess",
+        "uuid": 15414200,
+        "checksum": "xdbvkh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
